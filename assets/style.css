@@ -1,0 +1,53 @@
+.smaller-img {
+    height: 200px;
+    width: 200px;
+    
+}
+
+.larger-img {
+    height: 500px;
+    width: 500px;
+}
+
+.margin5px {
+    margin: 5px;
+}
+
+.border-solid {
+    border: 2px solid black;
+}
+
+/*.flex {
+    display: flex;
+} */
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.float {
+    position: absolute;
+    bottom: 10%;
+}
+
+.backgroundcolor {
+    background-color: #3c5f69;
+}
+
+.benefits {
+    padding: 10px;
+    clear: both;
+    float: left;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
